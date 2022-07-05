@@ -1,0 +1,2 @@
+# omz-themes
+zshrc configurations
