@@ -2,6 +2,8 @@
 zshrc configurations
 
 ## Theme-1
+### Installation
+Install antigen with brew
 ### Plugins
 Use Antigen to install plugins
 - git
